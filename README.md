@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains my **TypeScript learning journey**, including hands-on practice files and examples covering core to advanced concepts.
+This repository contains **TypeScript learning journey**, including hands-on practice files and examples covering core to advanced concepts.
 It is focused on understanding how TypeScript improves **code quality, scalability, and maintainability** in modern JavaScript applications.
 
 ---
